@@ -10,3 +10,12 @@ web数据库：https://www.mockaroo.com/
 在线工具：https://tool.lu/c/inquiry/
 
 截图 https://pixpinapp.com/
+
+BatchEncryption - 批处理加密程序
+http://bbs.bathome.net/thread-42106-1-1.html
+
+Batch Encryption DeCoder，针对 BatchEncryption 的批处理解密工具
+http://bbs.bathome.net/thread-64805-1-1.html
+
+还原BatchEncryption(201610版本)混淆的批处理文件
+http://bbs.bathome.net/thread-52301-1-1.html
